@@ -228,7 +228,7 @@ CREATE TABLE EMP (
 Tip: You can execute the full `personnel.sql` file in one step using your SQL client.
 
 ### 5. Insert Sample Data
-Populate tables with example records using the `INSERT INTO` statements in personnel.sql or refer to images in queries/ for visual guidance.
+Populate tables with example records using the `INSERT INTO` statements in `personnel.sql` or refer to images in `queries/` for visual guidance.
 
 ### 6. Verify Tables
 Check that the tables and sample data exist:
