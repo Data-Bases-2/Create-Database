@@ -139,7 +139,7 @@ The lab guides students through the following operations:
 
 ---
 
- Installation & Setup Guide
+# Installation & Setup Guide
 
 This repository contains a **personnel database creation project** developed for the **Databases II** course at the **University of West Attica (UNIWA)**.  
 The focus is on creating a relational database with `DEPT`, `JOB`, and `EMP` tables, inserting sample data, and performing queries for analysis.
